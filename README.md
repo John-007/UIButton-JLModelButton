@@ -26,3 +26,8 @@
 
 
 
+欢迎关注我的微信公众号，会不定时更新iOS相关技术文章。
+欢迎关注公众号来分享知识
+![iOS技术公众号320.jpeg](https://upload-images.jianshu.io/upload_images/2618922-a74e7aaf6cc92df5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
