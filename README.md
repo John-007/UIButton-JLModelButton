@@ -1,5 +1,5 @@
 # UIButton-JLModelButton
-一个 UIButton 的分类，使用 Runtime 动态绑定使它能够持有 model 属性，便于直接在点击事件中抓取数据。
+一个 UIButton 的分类，使用 Runtime 动态绑定使它能够持有 model 属性（id 类型），便于直接在点击事件中抓取数据。
 
 这是在一个项目需求中想到的，用于减少获取 Button 对应的 model 产生错误，同时减少可能出现的遍历以提升效率。
 
